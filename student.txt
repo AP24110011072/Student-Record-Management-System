@@ -1,4 +1,5 @@
-1 Gowtham 70.50
-2 Vijay 80.00 
+1 Neeharika 90.00
+2 Neel  10.00 
+
 
 
